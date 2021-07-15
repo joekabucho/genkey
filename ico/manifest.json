@@ -1,0 +1,11 @@
+{
+  "name": "Autumn Agency",
+  "display": "standalone",
+  "background_color": "#d4af37",
+  "theme_color": "#d4af37",
+  "icons": [{
+    "src": "ico/android-chrome-192.png",
+    "size": "192x192",
+    "type": "image/png"
+  }]
+}
